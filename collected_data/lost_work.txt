@@ -1,0 +1,6 @@
+I forgot to save SQL INSERTS for:
+matches, seeds, user_achievements, user_achievement_data, user_connections, and user_season_ranked_stats.
+These were inserted via terminal.
+
+There were also several issues with the data which I manually cleaned with SQL statements,
+including rows that should be null having the value of an empty string.

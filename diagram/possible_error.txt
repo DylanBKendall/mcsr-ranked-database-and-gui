@@ -1,0 +1,2 @@
+I included the .png of my ERD as I customized my own weak entity tables to make diagraming easier.
+This may have messed with the .xml.

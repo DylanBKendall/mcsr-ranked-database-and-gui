@@ -1,0 +1,1 @@
+I manually collected the data used for this project from the MCSR API.
